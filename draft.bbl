@@ -1,0 +1,76 @@
+\begin{thebibliography}{14}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Albus(1975)}]{AlbusJS:1975:CMAC}
+Albus, J.~S., 1975. A new approach to manipulator control: The cerebellar model
+  articulation controller {CMAC}. Journal of Dynamic Systems, Meaasurement, and
+  Control 97~(3), 220--227.
+
+\bibitem[{Botvinick~MM and AC.(2009)}]{Botvinick-Niv-Barto:2009:HRL}
+Botvinick~MM, N.~Y., AC., B., 2009. Hierarchically organized behavior and its
+  neural foundations: A reinforcement-learning perspective. Cognition. 113,
+  262--280.
+
+\bibitem[{Boyan and Moore(1995)}]{Boyan:1995:Approximating}
+Boyan, J.~A., Moore, A.~W., 1995. Generalization in reinforcement learning:
+  Safely approximating the value function. In: Tesauro, G., Touretzky, D.~S.,
+  Leen, T.~K. (Eds.), Advances in Neural Information Processing Systems 7. MIT
+  Press, Cambridge, MA, pp. 369--376.
+
+\bibitem[{Dayan(1992)}]{DayanP:1992:Proof}
+Dayan, P., 1992. The convergence of {TD}($\lambda$) for general $\lambda$.
+  Machine Learning 8, 341--362.
+
+\bibitem[{Dayan and Niv(2008)}]{DayanP:2008:Ugly}
+Dayan, P., Niv, Y., 2008. Reinforcement learning: The good, the bad and the
+  ugly. Current Opinion in Neurobiology 18, 185--196.
+
+\bibitem[{Kandel et~al.(2012)Kandel, Schwartz, Jessell, Siegelbaum, and
+  Hudspeth}]{KandelE:2012:Book}
+Kandel, E., Schwartz, J., Jessell, T., Siegelbaum, S., Hudspeth, A.~J., 2012.
+  Principles of Neural Science, fifth edition Edition. McGraw-Hill, New York.
+
+\bibitem[{Montague et~al.(1996)Montague, Dayan, and
+  Sejnowski}]{MontaguePR:1996:Dopamine}
+Montague, P.~R., Dayan, P., Sejnowski, T.~J., 1996. A framework for
+  mesencephalic dopamine systems based on predictive hebbian learning. Journal
+  of Neuroscience 16, 1936--1947.
+
+\bibitem[{O'Reilly and Munakata(2001)}]{OReillyRC:2001:CECN}
+O'Reilly, R.~C., Munakata, Y., 2001. Computational Explorations in Cognitive
+  Neuroscience. MIT Press, Cambridge, Massachusetts.
+
+\bibitem[{Rumelhart et~al.(1986)Rumelhart, Hinton, and
+  Williams}]{RumelhartDE:1986:BP}
+Rumelhart, D.~E., Hinton, G.~E., Williams, R.~J., 1986. Learning
+  representations by back-propagating errors. Nature 323, 533--536.
+
+\bibitem[{Schultz et~al.(1993)Schultz, Apicella, and
+  Ljungberg}]{SchultzW:1993:Dopamine}
+Schultz, W., Apicella, P., Ljungberg, T., 1993. Responses of monkey dopamine
+  neurons to reward and conditioned stimuli during successive steps of learning
+  a delayed response task. Journal of Neuroscience 13, 900--913.
+
+\bibitem[{Schultz et~al.(1997)Schultz, Dayan, and
+  Montague}]{SchultzW:1997:Science}
+Schultz, W., Dayan, P., Montague, P.~R., 1997. A neural substrate of prediction
+  and reward. Science 275~(5306), 1593--1599.
+
+\bibitem[{Sutton(1996)}]{SuttonRS:1996:Coarse}
+Sutton, R.~S., 1996. Generalization in reinforcement learning: Successful
+  examples using sparse coarse coding. In: Touretzky, D.~S., Mozer, M.~C.,
+  Hasselmo, M.~E. (Eds.), Advances in Neural Information Processing Systems 8.
+  MIT Press, Cambridge, MA, pp. 1038--1044.
+
+\bibitem[{Sutton and Barto(1998)}]{SuttonRS:1998:Book}
+Sutton, R.~S., Barto, A.~G., 1998. Reinforcement Learning: An Introduction. MIT
+  Press, Cambridge, MA.
+
+\bibitem[{Tesauro(1995)}]{TesauroG:1995:TDGammon}
+Tesauro, G., 1995. Temporal difference learning and {TD-Gammon}. Communications
+  of the ACM 38~(3).
+
+\end{thebibliography}
