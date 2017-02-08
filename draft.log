@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 FEB 2016 00:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 SEP 2016 14:36
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.tex"
-(/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.tex
+**draft.tex
+(./draft.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/elsarticle/elsarticle.cls
@@ -25,37 +26,48 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
@@ -76,8 +88,8 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
-(/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.spl) (/usr/local/texliv
-e/2015/texmf-dist/tex/latex/natbib/natbib.sty
+ (./draft.spl)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
 \bibsep=\skip46
@@ -87,8 +99,10 @@ LaTeX Info: Redefining \cite on input line 694.
 \splwrite=\write3
 \openout3 = `draft.spl'.
 
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
@@ -96,7 +110,8 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/pslatex/pslatex.sty
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pslatex/pslatex.sty
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -130,23 +145,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/newtxmath.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2015/05/01 v1.437
-`newtxmath' v1.437, 2015/05/01 Math macros based on txfonts (msharpe) (/usr/loc
-al/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+
+`newtxmath' v1.437, 2015/05/01 Math macros based on txfonts (msharpe)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip47
+
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen109
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen110
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count95
@@ -186,21 +207,26 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
-/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
 \XKV@depth=\count107
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2015/texmf-dist/tex/generic/kastrup/binhex.tex)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/kastrup/binhex.tex)
 \tx@Isdigit=\count108
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 107.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -277,13 +303,16 @@ LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 255.
 LaTeX Info: Redefining \not on input line 1638.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/soul/soul.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks25
 \SOUL@lasttoken=\toks26
@@ -294,7 +323,8 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen118
 \SOUL@uldp=\dimen119
 \SOUL@ulht=\dimen120
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box32
 \UL@hyphenbox=\box33
 \UL@skip=\skip51
@@ -305,10 +335,13 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \ULC@box=\box34
 Package: ulem 2012/05/18
 \ULdepth=\dimen123
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
@@ -324,7 +357,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 )
 \c@subfigure=\count111
 \c@subtable=\count112
-) (/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.aux
+)
+(./draft.aux
 
 LaTeX Warning: Label `bigresults' multiply defined.
 
@@ -337,7 +371,7 @@ LaTeX Warning: Label `bigresults' multiply defined.
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 62.
 LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 62
 .
-(/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omlntxmi.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2012/03/22 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 62.
@@ -348,6 +382,7 @@ LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 62
 .
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
@@ -357,12 +392,14 @@ LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for U+ntxexa on input line 62.
 
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
+
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
@@ -379,6 +416,7 @@ LaTeX Font Info:    ... okay on input line 62.
 ) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
@@ -387,16 +425,22 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
@@ -408,6 +452,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
@@ -419,10 +464,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
 LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -432,16 +479,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 131.
 LaTeX Font Info:    Try loading font information for U+ntxmia on input line 131
 .
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Try loading font information for U+ntxsym on input line 131
 .
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 131
 .
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
@@ -451,15 +501,18 @@ LaTeX Warning: there is no bold Symbol font on input line 138.
 [1
 
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-<figures/TD-comp-model-schematic.pdf, id=15, 371.3875pt x 291.0875pt>
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] [3] <figures/TD-comp-model-schematic.pdf, id=15, 371.3875pt x 291.0875pt>
 File: figures/TD-comp-model-schematic.pdf Graphic file (type pdf)
+
 <use figures/TD-comp-model-schematic.pdf>
 Package pdftex.def Info: figures/TD-comp-model-schematic.pdf used on input line
  246.
 (pdftex.def)             Requested size: 156.0006pt x 122.27367pt.
+
 <figures/TD-brain-schematic.pdf, id=16, 371.3875pt x 291.0875pt>
 File: figures/TD-brain-schematic.pdf Graphic file (type pdf)
+
 <use figures/TD-brain-schematic.pdf>
 Package pdftex.def Info: figures/TD-brain-schematic.pdf used on input line 252.
 
@@ -476,22 +529,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.5> not available
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
+
 <figures/puddleworld.pdf, id=17, 406.51875pt x 339.2675pt>
 File: figures/puddleworld.pdf Graphic file (type pdf)
+
 <use figures/puddleworld.pdf>
 Package pdftex.def Info: figures/puddleworld.pdf used on input line 279.
 (pdftex.def)             Requested size: 203.25887pt x 169.63333pt.
-[4 </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/TD-comp-model-sche
-matic.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/TD-brain-s
-chematic.pdf>] [5 </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/pud
-dleworld.pdf>] [6] [7] <figures/kWTA-schematic.pdf, id=108, 359.3425pt x 251.94
-125pt>
+ [4 <./figures/TD-comp-model-schematic.pdf> <./figures/TD-brain-schematic.pdf>]
+ [5 <./figures/puddleworld.pdf>] [6] [7]
+<figures/kWTA-schematic.pdf, id=108, 359.3425pt x 251.94125pt>
 File: figures/kWTA-schematic.pdf Graphic file (type pdf)
+
 <use figures/kWTA-schematic.pdf>
 Package pdftex.def Info: figures/kWTA-schematic.pdf used on input line 465.
 (pdftex.def)             Requested size: 179.6708pt x 125.9703pt.
-[8] [9 </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/kWTA-schematic
-.pdf>] [10]
+ [8] [9 <./figures/kWTA-schematic.pdf>]
+[10]
 Package epstopdf Info: Source file: <figures/mountainCar-schematic.eps>
 (epstopdf)                    date: 2016-01-20 23:32:11
 (epstopdf)                    size: 1369498 bytes
@@ -508,19 +562,18 @@ Package epstopdf Info: Output file is already uptodate.
 7625pt>
 File: figures/mountainCar-schematic-eps-converted-to.pdf Graphic file (type pdf
 )
-<use figures/mountainCar-schematic-eps-converted-to.pdf>
+ <use figures/mountainCar-schematic-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-schematic-eps-converted-to.pdf use
 d on input line 623.
 (pdftex.def)             Requested size: 171.64082pt x 103.88786pt.
-[11 </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/mountainCar-schem
-atic-eps-converted-to.pdf>] [12] <figures/acrobot-schematic.pdf, id=226, 290.08
-376pt x 290.08376pt>
+ [11 <./figures/mountainCar-schematic-eps-converted-to.pdf>] [12]
+<figures/acrobot-schematic.pdf, id=226, 290.08376pt x 290.08376pt>
 File: figures/acrobot-schematic.pdf Graphic file (type pdf)
+
 <use figures/acrobot-schematic.pdf>
 Package pdftex.def Info: figures/acrobot-schematic.pdf used on input line 733.
 (pdftex.def)             Requested size: 145.04152pt x 145.04152pt.
-[13] [14 </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/acrobot-sche
-matic.pdf>]
+ [13] [14 <./figures/acrobot-schematic.pdf>]
 Overfull \hbox (3.11272pt too wide) in paragraph at lines 796--810
 \OT1/ptm/m/n/12 ing starts with the ac-robot agant hang-ing straight down and a
 t rest i.e. $\OML/ntxmi/m/it/12 s \U/ntxmia/m/it/12 = }\OT1/ptm/m/n/12 0\OML/nt
@@ -530,54 +583,71 @@ xmi/m/it/12 ; \OT1/ptm/m/n/12 0\OML/ntxmi/m/it/12 ; \OT1/ptm/m/n/12 0\OML/ntxmi
 
 [15] <figures/puddleWorld-linear-value.pdf, id=272, 421.575pt x 330.23375pt>
 File: figures/puddleWorld-linear-value.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-linear-value.pdf>
 Package pdftex.def Info: figures/puddleWorld-linear-value.pdf used on input lin
 e 848.
 (pdftex.def)             Requested size: 126.47346pt x 99.07088pt.
+
 <figures/puddleWorld-bp-value.pdf, id=273, 413.545pt x 341.275pt>
 File: figures/puddleWorld-bp-value.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-bp-value.pdf>
 Package pdftex.def Info: figures/puddleWorld-bp-value.pdf used on input line 84
 9.
 (pdftex.def)             Requested size: 124.06445pt x 102.38329pt.
+
 <figures/puddleWorld-kwta-value.pdf, id=274, 407.5225pt x 330.23375pt>
 File: figures/puddleWorld-kwta-value.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-kwta-value.pdf>
 Package pdftex.def Info: figures/puddleWorld-kwta-value.pdf used on input line 
 850.
 (pdftex.def)             Requested size: 122.25769pt x 99.07088pt.
+
 <figures/puddleWorld-linear-policy.pdf, id=275, 421.575pt x 342.27875pt>
 File: figures/puddleWorld-linear-policy.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-linear-policy.pdf>
 Package pdftex.def Info: figures/puddleWorld-linear-policy.pdf used on input li
 ne 851.
 (pdftex.def)             Requested size: 126.47346pt x 102.6844pt.
+
 <figures/puddleWorld-bp-policy.pdf, id=276, 402.50375pt x 339.2675pt>
 File: figures/puddleWorld-bp-policy.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-bp-policy.pdf>
 Package pdftex.def Info: figures/puddleWorld-bp-policy.pdf used on input line 8
 52.
 (pdftex.def)             Requested size: 120.75204pt x 101.78102pt.
+
 <figures/puddleWorld-kwta-policy.pdf, id=277, 442.65375pt x 363.3575pt>
 File: figures/puddleWorld-kwta-policy.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-kwta-policy.pdf>
 Package pdftex.def Info: figures/puddleWorld-kwta-policy.pdf used on input line
  853.
 (pdftex.def)             Requested size: 132.79713pt x 109.00809pt.
+
 <figures/puddleWorld-linear-delta.pdf, id=278, 407.5225pt x 330.23375pt>
 File: figures/puddleWorld-linear-delta.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-linear-delta.pdf>
 Package pdftex.def Info: figures/puddleWorld-linear-delta.pdf used on input lin
 e 854.
 (pdftex.def)             Requested size: 122.25769pt x 99.07088pt.
+
 <figures/puddleWorld-bp-delta.pdf, id=279, 406.51875pt x 339.2675pt>
 File: figures/puddleWorld-bp-delta.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-bp-delta.pdf>
 Package pdftex.def Info: figures/puddleWorld-bp-delta.pdf used on input line 85
 5.
 (pdftex.def)             Requested size: 121.95656pt x 101.78102pt.
+
 <figures/puddleWorld-kwta-delta.pdf, id=280, 407.5225pt x 330.23375pt>
 File: figures/puddleWorld-kwta-delta.pdf Graphic file (type pdf)
+
 <use figures/puddleWorld-kwta-delta.pdf>
 Package pdftex.def Info: figures/puddleWorld-kwta-delta.pdf used on input line 
 856.
@@ -603,7 +673,7 @@ Package epstopdf Info: Output file is already uptodate.
 12.54124pt>
 File: figures/mountainCar-linearNN-cost-eps-converted-to.pdf Graphic file (type
  pdf)
-<use figures/mountainCar-linearNN-cost-eps-converted-to.pdf>
+ <use figures/mountainCar-linearNN-cost-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-linearNN-cost-eps-converted-to.pdf
  used on input line 885.
 (pdftex.def)             Requested size: 101.5777pt x 82.50677pt.
@@ -623,7 +693,7 @@ Package epstopdf Info: Output file is already uptodate.
 x 412.54124pt>
 File: figures/mountainCar-regularBPNN-cost-eps-converted-to.pdf Graphic file (t
 ype pdf)
-<use figures/mountainCar-regularBPNN-cost-eps-converted-to.pdf>
+ <use figures/mountainCar-regularBPNN-cost-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-regularBPNN-cost-eps-converted-to.
 pdf used on input line 886.
 (pdftex.def)             Requested size: 101.5777pt x 82.50677pt.
@@ -643,7 +713,7 @@ Package epstopdf Info: Output file is already uptodate.
 .54124pt>
 File: figures/mountainCar-kwtaNN-cost-eps-converted-to.pdf Graphic file (type p
 df)
-<use figures/mountainCar-kwtaNN-cost-eps-converted-to.pdf>
+ <use figures/mountainCar-kwtaNN-cost-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-kwtaNN-cost-eps-converted-to.pdf u
 sed on input line 887.
 (pdftex.def)             Requested size: 101.5777pt x 82.50677pt.
@@ -665,6 +735,7 @@ Package epstopdf Info: Output file is already uptodate.
 5pt x 427.5975pt>
 File: figures/mountainCar-linearNN-performance-eps-converted-to.pdf Graphic fil
 e (type pdf)
+
 <use figures/mountainCar-linearNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-linearNN-performance-eps-converted
 -to.pdf used on input line 888.
@@ -687,6 +758,7 @@ Package epstopdf Info: Output file is already uptodate.
 0175pt x 427.5975pt>
 File: figures/mountainCar-regularBPNN-performance-eps-converted-to.pdf Graphic 
 file (type pdf)
+
 <use figures/mountainCar-regularBPNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-regularBPNN-performance-eps-conver
 ted-to.pdf used on input line 889.
@@ -708,6 +780,7 @@ Package epstopdf Info: Output file is already uptodate.
 t x 427.5975pt>
 File: figures/mountainCar-kwtaNN-performance-eps-converted-to.pdf Graphic file 
 (type pdf)
+
 <use figures/mountainCar-kwtaNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-kwtaNN-performance-eps-converted-t
 o.pdf used on input line 890.
@@ -730,6 +803,7 @@ Package epstopdf Info: Output file is already uptodate.
 5pt x 427.5975pt>
 File: figures/mountainCar-linearNN-frozen-test-eps-converted-to.pdf Graphic fil
 e (type pdf)
+
 <use figures/mountainCar-linearNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-linearNN-frozen-test-eps-converted
 -to.pdf used on input line 891.
@@ -752,6 +826,7 @@ Package epstopdf Info: Output file is already uptodate.
 0175pt x 427.5975pt>
 File: figures/mountainCar-regularBPNN-frozen-test-eps-converted-to.pdf Graphic 
 file (type pdf)
+
 <use figures/mountainCar-regularBPNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-regularBPNN-frozen-test-eps-conver
 ted-to.pdf used on input line 892.
@@ -773,6 +848,7 @@ Package epstopdf Info: Output file is already uptodate.
 pt x 427.5975pt>
 File: figures/mountainCar-kwtaNN-frozen-test-eps-converted-to.pdf Graphic file 
 (type pdf)
+
 <use figures/mountainCar-kwtaNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/mountainCar-kwtaNN-frozen-test-eps-converted-t
 o.pdf used on input line 893.
@@ -793,7 +869,7 @@ Package epstopdf Info: Output file is already uptodate.
 x 427.5975pt>
 File: figures/acrobot-linearNN-performance-eps-converted-to.pdf Graphic file (t
 ype pdf)
-<use figures/acrobot-linearNN-performance-eps-converted-to.pdf>
+ <use figures/acrobot-linearNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-linearNN-performance-eps-converted-to.
 pdf used on input line 914.
 (pdftex.def)             Requested size: 108.00157pt x 85.51797pt.
@@ -815,6 +891,7 @@ Package epstopdf Info: Output file is already uptodate.
 pt x 427.5975pt>
 File: figures/acrobot-regularBPNN-performance-eps-converted-to.pdf Graphic file
  (type pdf)
+
 <use figures/acrobot-regularBPNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-regularBPNN-performance-eps-converted-
 to.pdf used on input line 915.
@@ -835,7 +912,7 @@ Package epstopdf Info: Output file is already uptodate.
 427.5975pt>
 File: figures/acrobot-kwtaNN-performance-eps-converted-to.pdf Graphic file (typ
 e pdf)
-<use figures/acrobot-kwtaNN-performance-eps-converted-to.pdf>
+ <use figures/acrobot-kwtaNN-performance-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-kwtaNN-performance-eps-converted-to.pd
 f used on input line 916.
 (pdftex.def)             Requested size: 108.00157pt x 85.51797pt.
@@ -855,7 +932,7 @@ Package epstopdf Info: Output file is already uptodate.
  x 427.5975pt>
 File: figures/acrobot-linearNN-frozen-test-eps-converted-to.pdf Graphic file (t
 ype pdf)
-<use figures/acrobot-linearNN-frozen-test-eps-converted-to.pdf>
+ <use figures/acrobot-linearNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-linearNN-frozen-test-eps-converted-to.
 pdf used on input line 917.
 (pdftex.def)             Requested size: 106.59636pt x 85.51797pt.
@@ -877,6 +954,7 @@ Package epstopdf Info: Output file is already uptodate.
 6pt x 427.5975pt>
 File: figures/acrobot-regularBPNN-frozen-test-eps-converted-to.pdf Graphic file
  (type pdf)
+
 <use figures/acrobot-regularBPNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-regularBPNN-frozen-test-eps-converted-
 to.pdf used on input line 918.
@@ -897,7 +975,7 @@ Package epstopdf Info: Output file is already uptodate.
  427.5975pt>
 File: figures/acrobot-kwtaNN-frozen-test-eps-converted-to.pdf Graphic file (typ
 e pdf)
-<use figures/acrobot-kwtaNN-frozen-test-eps-converted-to.pdf>
+ <use figures/acrobot-kwtaNN-frozen-test-eps-converted-to.pdf>
 Package pdftex.def Info: figures/acrobot-kwtaNN-frozen-test-eps-converted-to.pd
 f used on input line 919.
 (pdftex.def)             Requested size: 106.59636pt x 85.51797pt.
@@ -906,51 +984,36 @@ Overfull \hbox (18.39442pt too wide) in paragraph at lines 951--951
 [] 
  []
 
-(/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.bbl [16] [17]) [18] [19
- </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/puddleWorld-linear-v
-alue.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/puddleWorld
--bp-value.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/puddle
-World-kwta-value.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures
-/puddleWorld-linear-policy.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscri
-pt/figures/puddleWorld-bp-policy.pdf> </Users/jacobrafati/Desktop/BICA Paper/Ma
-nuscript/figures/puddleWorld-kwta-policy.pdf> </Users/jacobrafati/Desktop/BICA 
-Paper/Manuscript/figures/puddleWorld-linear-delta.pdf> </Users/jacobrafati/Desk
-top/BICA Paper/Manuscript/figures/puddleWorld-bp-delta.pdf> </Users/jacobrafati
-/Desktop/BICA Paper/Manuscript/figures/puddleWorld-kwta-delta.pdf>] [20 </Users
-/jacobrafati/Desktop/BICA Paper/Manuscript/figures/mountainCar-linearNN-cost-ep
-s-converted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/m
-ountainCar-regularBPNN-cost-eps-converted-to.pdf> </Users/jacobrafati/Desktop/B
-ICA Paper/Manuscript/figures/mountainCar-kwtaNN-cost-eps-converted-to.pdf> </Us
-ers/jacobrafati/Desktop/BICA Paper/Manuscript/figures/mountainCar-linearNN-perf
-ormance-eps-converted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript
-/figures/mountainCar-regularBPNN-performance-eps-converted-to.pdf> </Users/jaco
-brafati/Desktop/BICA Paper/Manuscript/figures/mountainCar-kwtaNN-performance-ep
-s-converted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/m
-ountainCar-linearNN-frozen-test-eps-converted-to.pdf> </Users/jacobrafati/Deskt
-op/BICA Paper/Manuscript/figures/mountainCar-regularBPNN-frozen-test-eps-conver
-ted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/mountainC
-ar-kwtaNN-frozen-test-eps-converted-to.pdf>] [21 </Users/jacobrafati/Desktop/BI
-CA Paper/Manuscript/figures/acrobot-linearNN-performance-eps-converted-to.pdf> 
-</Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/acrobot-regularBPNN-p
-erformance-eps-converted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscr
-ipt/figures/acrobot-kwtaNN-performance-eps-converted-to.pdf> </Users/jacobrafat
-i/Desktop/BICA Paper/Manuscript/figures/acrobot-linearNN-frozen-test-eps-conver
-ted-to.pdf> </Users/jacobrafati/Desktop/BICA Paper/Manuscript/figures/acrobot-r
-egularBPNN-frozen-test-eps-converted-to.pdf> </Users/jacobrafati/Desktop/BICA P
-aper/Manuscript/figures/acrobot-kwtaNN-frozen-test-eps-converted-to.pdf>] (/Use
-rs/jacobrafati/Desktop/BICA Paper/Manuscript/draft.aux)
+(./draft.bbl [16] [17]) [18] [19 <./figures/puddleWorld-linear-value.pdf> <./fi
+gures/puddleWorld-bp-value.pdf> <./figures/puddleWorld-kwta-value.pdf> <./figur
+es/puddleWorld-linear-policy.pdf> <./figures/puddleWorld-bp-policy.pdf> <./figu
+res/puddleWorld-kwta-policy.pdf> <./figures/puddleWorld-linear-delta.pdf> <./fi
+gures/puddleWorld-bp-delta.pdf> <./figures/puddleWorld-kwta-delta.pdf>]
+[20 <./figures/mountainCar-linearNN-cost-eps-converted-to.pdf> <./figures/mount
+ainCar-regularBPNN-cost-eps-converted-to.pdf> <./figures/mountainCar-kwtaNN-cos
+t-eps-converted-to.pdf> <./figures/mountainCar-linearNN-performance-eps-convert
+ed-to.pdf> <./figures/mountainCar-regularBPNN-performance-eps-converted-to.pdf>
+ <./figures/mountainCar-kwtaNN-performance-eps-converted-to.pdf> <./figures/mou
+ntainCar-linearNN-frozen-test-eps-converted-to.pdf> <./figures/mountainCar-regu
+larBPNN-frozen-test-eps-converted-to.pdf> <./figures/mountainCar-kwtaNN-frozen-
+test-eps-converted-to.pdf>] [21 <./figures/acrobot-linearNN-performance-eps-con
+verted-to.pdf> <./figures/acrobot-regularBPNN-performance-eps-converted-to.pdf>
+ <./figures/acrobot-kwtaNN-performance-eps-converted-to.pdf> <./figures/acrobot
+-linearNN-frozen-test-eps-converted-to.pdf> <./figures/acrobot-regularBPNN-froz
+en-test-eps-converted-to.pdf> <./figures/acrobot-kwtaNN-frozen-test-eps-convert
+ed-to.pdf>] (./draft.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5762 strings out of 493089
- 85490 string characters out of 6134842
+ 5760 strings out of 493089
+ 84856 string characters out of 6134842
  146058 words of memory out of 5000000
  9033 multiletter control sequences out of 15000+600000
  61638 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,13n,94p,1221b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,13n,94p,1170b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texl
@@ -966,8 +1029,7 @@ nts/txmia.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/tx
 sy.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/jacobrafati/Desktop/BICA Paper/Manuscript/draft.pdf" 
-(21 pages, 4673870 bytes).
+Output written on draft.pdf (21 pages, 4672233 bytes).
 PDF statistics:
  753 PDF objects out of 1000 (max. 8388607)
  550 compressed objects within 6 object streams
