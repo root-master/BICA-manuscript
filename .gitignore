@@ -1,6 +1,6 @@
 Build
 .DS_*
-doc
+/doc
 draft.aux
 draft.blg
 draft.log
