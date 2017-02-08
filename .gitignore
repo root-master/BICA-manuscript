@@ -1,2 +1,9 @@
 Build
 .DS_*
+doc
+draft.aux
+draft.blg
+draft.log
+draft.apl
+draft.synctex.gz
+manifest.txt
